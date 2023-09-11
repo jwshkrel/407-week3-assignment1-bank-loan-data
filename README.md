@@ -1,4 +1,4 @@
-# Week 1 Assignment - Data analysis warmup
+# Week 3 Assignment - Data analysis warmup
 
 **Dataset**
 
@@ -21,9 +21,9 @@ This dataset is related to direct marketing campaigns of a Portuguese banking in
 
 **Assignment**
 
-Your goal is to use K-means analysis and logistic regression to process this data. Imagine you have been hired as a consulant by the marketing team for the bank to answer the following questions:
+Your goal is to use classification to process this data. Imagine you have been hired as a consulant by the marketing team for the bank to answer the following questions:
 
-1. How do customers segment?  Can you identify different, distinctive features that characterize these different segments?
-2. Can you predict which customers will subscribe to a term deposit?
-3. How does the likelihood of subscription correlate with the customer segments?
-4. What advice do you have for where to put our marketing dollars right now?
+1. Can you predict which customers will subscribe to a term deposit?
+2. What advice do you have for where to put our marketing dollars right now?
+
+Please be thoughtful about how you process data and evaluate your results.  Refer to the rubric for guidance on how to produce reports.
